@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 # 💫 About Me:
 Hi there 👋<br>I'm an aspiring Data Scientist and Machine Learning enthusiast passionate about solving real-world problems using data.<br><br>🔹 Skilled in Python, SQL, Machine Learning, NLP, and Data Analysis<br>🔹 Building projects in Fake News Detection, Predictive Modeling, and Data Visualization<br>🔹 Interested in AI, Deep Learning, and scalable data-driven solutions<br><br>I enjoy learning, building, and continuously improving my problem-solving skills through practical projects and coding challenges.<br>
 
